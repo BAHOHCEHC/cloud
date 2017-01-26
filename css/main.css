@@ -183,6 +183,7 @@ div.cloud11{
     -webkit-animation: move_cloud11 120s linear infinite; /* Chrome, Safari, Opera */
     animation: move_cloud11 120s linear infinite;
     z-index: 5;
+
 }
 div.sun{
     z-index: 5;
